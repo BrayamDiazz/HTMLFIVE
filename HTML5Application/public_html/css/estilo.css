@@ -1,0 +1,35 @@
+/* 
+    Document   : estilo
+    Created on : 3/09/2013, 08:19:04 AM
+    Author     : 201
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+p
+{
+ background-color: buttonface;  
+ border: solid 2px;
+ border-radius: 20px;
+ text-align: center;
+}
+body 
+{
+    background-color: chartreuse;
+}
+#p3
+{
+    background-color: blue;
+}
+.clase1
+{
+background-color: cadetblue;    
+}
+#tittle
+{
+    text-align: center;
+animation: cubic-bezier;
+}
